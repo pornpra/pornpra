@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Welcome to my github profile
+🚀 Welcome to my github profile 🚀
 
-I'm currently working as a Data Scientist at PTT Oil and Retail Business Public Company Limited (PTTOR)
+I'm currently working as a Data Scientist at PTT Oil and Retail Business Public Company Limited (PTTOR) 
 
 <!--
 **pornpra/pornpra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
